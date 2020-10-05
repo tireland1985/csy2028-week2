@@ -5,5 +5,5 @@ $content = '
 
 <p>This module is designed to give an indepth appreciation of the design, implementation and testing principles of embedded and real-time systems. Issues involved and complexities of the use of computers in embedded systems and interfacing with such devices. </p>';
 
-require 'layout.php';
+require '../layout.php';
 ?>

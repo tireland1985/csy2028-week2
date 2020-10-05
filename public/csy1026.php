@@ -8,5 +8,5 @@ $content = '<h1>CSY1026 Databases 1</h1>
 </p>';
 
 
-require 'layout.php';
+require '../layout.php';
 ?>

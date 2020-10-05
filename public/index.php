@@ -10,5 +10,5 @@ $content = '
 <p>We welcome all applicants to our courses, including international applications and applications from students with a range of non-traditional educational or professional qualifications.</p>';
 
 
-require 'layout.php';
+require '../layout.php';
 ?>

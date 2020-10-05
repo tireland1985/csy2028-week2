@@ -8,5 +8,5 @@ $content = '
 <p>An essential outcome for this module is that the student project deliverable includes the design and development of a system, a software application or a novel functional approach that relates to the main areas of student study, and that can be used, applied or demonstrated in some way. Students enrolled on the BSc Business Computing may engage on a research centred project resulting in a report of analysis of an appropriate topic. </p>';
 
 
-require 'layout.php';
+require '../layout.php';
 ?>

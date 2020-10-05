@@ -9,6 +9,6 @@ $content = '			<h1>CSY1014 Computer Systems</h1>
 Learning environments are offered to enable students to gain a basic comprehension, understanding and appreciation of computer system concepts and technologies, and the skills to use them to the best effect.</p>';
 
 
-require 'layout.php';
+require '../layout.php';
 
 ?>

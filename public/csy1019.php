@@ -8,5 +8,5 @@ $content = '
 <p>This module concentrates on creating object-based solutions to Software Engineering problems within several contemporary integrated development environments.  </p>';
 
 
-require 'layout.php';
+require '../layout.php';
 ?>
