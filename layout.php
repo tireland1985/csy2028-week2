@@ -7,7 +7,7 @@
 
 	<body>
 		<header>
-			<img src="logo.jpg" alt="logo" />
+			<a href="index.php"><img src="logo.jpg" alt="logo" /></a>
 			<ul>
 				<li>Year 1
 					<ul>
