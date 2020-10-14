@@ -1,4 +1,5 @@
 <?php
+$year = '3';
 $title = 'CSY3015 Real Time and Embedded Systems';
 $content = '
 			<h1>CSY3015 Real Time and and Embedded Systems</h1>

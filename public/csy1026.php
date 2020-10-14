@@ -1,4 +1,5 @@
 <?php
+$year = '1';
 $title = 'CSY1026 Databases 1';
 $content = '<h1>CSY1026 Databases 1</h1>
 

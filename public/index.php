@@ -1,4 +1,5 @@
 <?php
+$year = 'none';
 $title = 'Computing at the University of Northampton';
 $content = '
 <h1>Computing at the University of Northampton</h1>

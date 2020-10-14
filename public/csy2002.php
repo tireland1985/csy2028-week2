@@ -1,4 +1,5 @@
 <?php
+$year = '2';
 $title = 'CSY2002 Operating Systems';
 $content = '
 			<h1>CSY2002 Operating Systems</h1>
